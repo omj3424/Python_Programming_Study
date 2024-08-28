@@ -9,13 +9,13 @@
 ||||World Food Facts|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts/Exercises.ipynb)|
 |3|2024.08.06|2. Filtering & Sorting|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Chipotle/Exercises_sh.ipynb)|
 ||||Euro12|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Euro12/Exercises.ipynb)|
-||||Fictional Army|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Fictional%20Army/Exercise_sh.ipynb)|
-|4|2024.08.13|3. Grouping|Alcohol_Consumption|minsu||
-||||Occupation|kwanization||
-||||Regiment|omj||
-|5|2024.08.20|4. Apply|Students_Alcohol_Consumption|Sohee||
-||||US_Crime_Rates|minsu||
-|6|2024.08.27|5. Merge|Auto_MPG|kwanization||
+|4|2024.08.13||Fictional Army|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Fictional%20Army/Exercise_sh.ipynb)|
+|||3. Grouping|Alcohol_Consumption|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/Exercise_minsu.ipynb)|
+||||Occupation|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/03_Grouping/Occupation/Exercise.ipynb)|
+|5|2024.08.28||Regiment|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/03_Grouping/Regiment/Exercises.ipynb)|
+|||4. Apply|Students_Alcohol_Consumption|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/04_Apply/Students_Alcohol_Consumption/Exercises_sh.ipynb)|
+||||US_Crime_Rates|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python-Programming-Study_Minsu/blob/main/pandas_exercises/04_Apply/US_Crime_Rates/Exercises_ms.ipynb)|
+|6|2024.09.|5. Merge|Auto_MPG|kwanization||
 ||||Fictitous Names|omj||
 ||||Housing Market|Sohee||
 |7|2024.09|6. Stats|US_Baby_Names|minsu||
